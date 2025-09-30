@@ -13,7 +13,7 @@ function App() {
     {
       title: "Miiikaaaa",
       subtitle: "The moment everything started...",
-      content: "I just wanted you to know that I like u and even though life has been hard for u these past months, I want to be there for u. I want to be the one who makes u smile, who supports u, who stands by u through thick and thin.\n\nFrom the moment I saw u, I knew there was something special about u. Your passion for filmmaking, your creativity, your kindness - it all drew me in. I admire u so much, and I can't help but feel a deep connection to u.\n\nI know we haven't known each other for long, but I can't ignore these feelings anymore. So here I am, pouring my heart out to u in this little album. I hope it brings a smile to ur face and lets u know how much u mean to me.",
+      content: "I just wanted you to know that I like u and even though life has been hard for u these past months, I want to be there for u. I want to be the one who makes u smile, who supports u, who stands by u through thick and thin.",
       hasPhoto: true,
       photoText: "My beautiful filmmaker 💕",
       bgGradient: "from-pink-100 to-rose-200",
