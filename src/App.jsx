@@ -40,7 +40,7 @@ function App() {
     {
       title: "Our Love Story 💕",
       subtitle: "The beginning of something beautiful...",
-      content: "I hope this you'll still open your heart to me, and give us a chance to create our own love story, filled with laughter, adventure, and endless love.",
+      content: "I hope you'll still open your heart to me, and give us a chance to create our own love story, filled with laughter, adventure, and endless love.",
       hasPhoto: true,
       photoText: "Our future together 💐",
       bgGradient: "from-pink-100 to-rose-200",
