@@ -31,7 +31,7 @@ function App() {
     {
       title: "My Truth 💝",
       subtitle: "No filters, no edits, just pure feelings...",
-      content: "I'll be honest na I'm so inlove with u, even though the time we spent togetehr is so short but I feel like I've known u forever. ",
+      content: "I'll be honest na I'm so inlove with u, even though the time we spent together is so short but I feel like I've known u forever. ",
       hasPhoto: true,
       photoText: "Your smile that melts me 🌸",
       bgGradient: "from-pink-100 to-rose-200",
@@ -286,7 +286,7 @@ function App() {
               I Love You
             </h1>
             <p className="text-2xl text-gray-700 mb-8 font-light leading-relaxed">
-              You're the director of my heart, the star of my dreams...
+              Mikaaa~
             </p>
             <div className="text-6xl mb-6">💐</div>
             <p className="text-3xl font-bold text-pink-700 mb-8">
