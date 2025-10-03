@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react'
 import './App.css'
 import photo1 from './assets/img/mik.jpeg'
-import photo2 from './assets/img/photo2.jpeg'
-import photo3 from './assets/img/photo3.jpeg'
-import photo4 from './assets/img/photo4.jpeg'
+import photo2 from './assets/img/photo2.jpg'
+import photo3 from './assets/img/photo3.jpg'
+import photo4 from './assets/img/photo4.jpg'
 
 function App() {
   const [currentPage, setCurrentPage] = useState(0)
