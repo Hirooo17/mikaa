@@ -1,6 +1,9 @@
 import { useState, useEffect } from 'react'
 import './App.css'
 import photo1 from './assets/img/mik.jpeg'
+import photo2 from './assets/img/photo2.jpeg'
+import photo3 from './assets/img/photo3.jpeg'
+import photo4 from './assets/img/photo4.jpeg'
 
 function App() {
   const [currentPage, setCurrentPage] = useState(0)
@@ -26,7 +29,7 @@ function App() {
       hasPhoto: true,
       photoText: "You in your element 🌟",
       bgGradient: "from-pink-100 to-rose-200",
-      image: photo1
+      image: photo2
     },
     {
       title: "My Truth 💝",
@@ -35,7 +38,7 @@ function App() {
       hasPhoto: true,
       photoText: "Your smile that melts me 🌸",
       bgGradient: "from-pink-100 to-rose-200",
-      image: photo1
+      image: photo3
     },
     {
       title: "Our Love Story 💕",
@@ -44,7 +47,7 @@ function App() {
       hasPhoto: true,
       photoText: "Our future together 💐",
       bgGradient: "from-pink-100 to-rose-200",
-      image: photo1,
+      image: photo4,
       isFinal: true
     }
   ]
